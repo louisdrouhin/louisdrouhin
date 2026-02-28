@@ -36,6 +36,7 @@
   <img src="https://github.com/betasown/betasown/blob/main/microsoft-sharepoint-2019.png?raw=true" title="SharePoint" alt="SharePoint" width="35" height="35">
   <img src="https://github.com/betasown/betasown/blob/main/510Y001wvGL.png?raw=true" title="Intune" alt="Intune" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35">
 </p>
 
 ### ⚡ Some Knowledge:
@@ -50,7 +51,6 @@
 ### 📚 What I'm Learning:
 <p>
   <img src="https://github.com/betasown/betasown/blob/main/67c6e21591b4fed521d5deaf_660d6e4873c62fb68976b4d8_chess.com-logo-carre.png?raw=true" title="Chess.com" alt="PHP" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35">
 </p>
 
 ---
