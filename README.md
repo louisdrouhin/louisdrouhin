@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="35" height="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="35" height="35">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="35" height="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" title="JMySql" alt="MySql" width="35" height="35">
@@ -36,7 +37,6 @@
   <img src="https://github.com/betasown/betasown/blob/main/microsoft-sharepoint-2019.png?raw=true" title="SharePoint" alt="SharePoint" width="35" height="35">
   <img src="https://github.com/betasown/betasown/blob/main/510Y001wvGL.png?raw=true" title="Intune" alt="Intune" width="35" height="35">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="35" height="35">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="35" height="35">
 </p>
 
 ### ⚡ Some Knowledge:
