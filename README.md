@@ -2,7 +2,7 @@
 <h3 align="center">Student at CESI, Computer Science</h3>
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB3YWYyODdxZGJ0MGdkbHZ4ZW95ZXZmd2loaWVqOHM3ejV1Zms4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="190" height="220"/></center>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpzd25vZjcwMnppZjV1bm93eWRjY2R5dGIwdHo2cTdyaGgwNDB1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="190" height="220"/></center>
 </div> 
 
 <div id="badges" align="center">
