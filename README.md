@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🎮ㆍ Currently working on noting (Currently looking for a cool project)
 - 👨‍💻ㆍ All of my projects are available at [https://beta-dev.me](https://beta-dev.me) 
-- 🌟ㆍ**Event Organizer**: Proud **co-organizer** of **CES'Event**, a 24-hour charity livestream event on Twitch!
+- 🌟ㆍ**Event Organizer**: Proud **co-organizer** of **CES'Event**, a 24-hour charity livestream event on Twitch (Announcement of the next date coming soon) !
 - ♟️ㆍ**Novice** Chess player on chess.com (850 elo) (if you want to coach me, I'm not saying no)
 
 ---
